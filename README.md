@@ -9,7 +9,7 @@ Machine Learning, Time Series &amp; Survival Analysis. Develop working skills in
 |:------:|----------------------------------------------------------------------------|:--:|
 | 01.     | [Exploratory Data Analysis for Machine Learning]()|✅|
 | 02.     | [Supervised Machine Learning: Regression]()|✅|
-| 03.     | [Supervised Machine Learning: Classification]()||
+| 03.     | [Supervised Machine Learning: Classification]()|✅|
 | 04.     | [Unsupervised Machine Learning]()||
 | 05.     | [Deep Learning and Reinforcement Learning]()||
 | 06.     | [Specialized Models: Time Series and Survival Analysis]()||
