@@ -3,7 +3,7 @@
 Machine Learning, Time Series &amp; Survival Analysis. Develop working skills in the main areas of Machine Learning: Supervised Learning, Unsupervised Learning, Deep Learning, and Reinforcement Learning. Also gain practice in specialized topics such as Time Series Analysis and Survival Analysis.
 
 
-<img height="100" src="https://user-images.githubusercontent.com/67054356/132362689-31859a26-5d52-4eff-a4c4-ee6a8fd2f16c.png">
+<img height="100" src="https://user-images.githubusercontent.com/67054356/132362689-31859a26-5d52-4eff-a4c4-ee6a8fd2f16c.png"> 
 
 | Sr. No | Course                                                               |Status|
 |:------:|----------------------------------------------------------------------------|:--:|
