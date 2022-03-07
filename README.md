@@ -10,7 +10,7 @@ Machine Learning, Time Series &amp; Survival Analysis. Develop working skills in
 | 01.     | [Exploratory Data Analysis for Machine Learning](https://github.com/AI-MOO/IBM-Machine-Learning-Professional-Certificate/tree/master/01-Exploratory%20Data%20Analysis%20for%20Machine%20Learning)|✅|
 | 02.     | [Supervised Machine Learning: Regression](https://github.com/AI-MOO/IBM-Machine-Learning-Professional-Certificate/tree/master/02-Supervised%20Machine%20Learning%20Regression)|✅| 
 | 03.     | [Supervised Machine Learning: Classification](https://github.com/AI-MOO/IBM-Machine-Learning-Professional-Certificate/tree/master/03-Supervised%20Machine%20Learning%20Classification)|✅|
-| 04.     | [Unsupervised Machine Learning](⌛)||
+| 04.     | [Unsupervised Machine Learning]()|⌛|
 | 05.     | [Deep Learning and Reinforcement Learning]()||
 | 06.     | [Specialized Models: Time Series and Survival Analysis]()||
 
