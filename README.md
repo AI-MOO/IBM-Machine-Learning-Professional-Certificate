@@ -24,4 +24,4 @@ This program consists of 6 courses providing you with solid theoretical understa
 
 Although it is recommended that you have some background in Python programming, statistics, and linear algebra, this intermediate series is suitable for anyone who has some computer skills, interest in leveraging data, and a passion for self-learning. We start small, provide a solid theoretical background and code-along labs and demos, and build up to more complex topics.  
 
-In addition to earning a Professional Certificate from Coursera, you will also receive a digital Badge from IBM recognizing your proficiency in Machine Learning.    
+In addition to earning a Professional Certificate from Coursera, you will also receive a digital Badge from IBM recognizing your proficiency in Machine Learning.     
