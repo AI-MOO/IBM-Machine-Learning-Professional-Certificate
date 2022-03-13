@@ -18,7 +18,7 @@ Machine Learning, Time Series &amp; Survival Analysis. Develop working skills in
 
 ## About this Professional Certificate
 
-Machine Learning is one of the most in-demand skills for jobs related to modern AI applications, a field in which hiring has grown 74% annually for the last four years (LinkedIn). This Professional Certificate from IBM is intended for anyone interested in developing skills and experience to pursue a career in Machine Learning and leverage the main types of Machine Learning: Unsupervised Learning, Supervised Learning, Deep Learning, and Reinforcement Learning. It also complements your learning with special topics, including Time Series Analysis and Survival Analysis.
+Machine Learning is one of the most in-demand skills for jobs related to modern AI applications, a field in which hiring has grown 74% annually for the last four years (LinkedIn). This Professional Certificate from IBM is intended for anyone interested in developing skills and experience to pursue a career in Machine Learning and leverage the main types of Machine Learning: Unsupervised Learning, Supervised Learning, Deep Learning, and Reinforcement Learning. It also complements your learning with special topics, including Time Series Analysis and Survival Analysis. 
 
 This program consists of 6 courses providing you with solid theoretical understanding and considerable practice of the main algorithms, uses, and best practices related to Machine Learning . You will follow along and code your own projects using some of the most relevant open source frameworks and libraries. 
 
