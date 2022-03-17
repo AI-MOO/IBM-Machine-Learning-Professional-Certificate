@@ -22,6 +22,6 @@ Machine Learning is one of the most in-demand skills for jobs related to modern 
 
 This program consists of 6 courses providing you with solid theoretical understanding and considerable practice of the main algorithms, uses, and best practices related to Machine Learning . You will follow along and code your own projects using some of the most relevant open source frameworks and libraries. 
 
-Although it is recommended that you have some background in Python programming, statistics, and linear algebra, this intermediate series is suitable for anyone who has some computer skills, interest in leveraging data, and a passion for self-learning. We start small, provide a solid theoretical background and code-along labs and demos, and build up to more complex topics.  
+Although it is recommended that you have some background in Python programming, statistics, and linear algebra, this intermediate series is suitable for anyone who has some computer skills, interest in leveraging data, and a passion for self-learning. We start small, provide a solid theoretical background and code-along labs and demos, and build up to more complex topics. 
 
 In addition to earning a Professional Certificate from Coursera, you will also receive a digital Badge from IBM recognizing your proficiency in Machine Learning.     
