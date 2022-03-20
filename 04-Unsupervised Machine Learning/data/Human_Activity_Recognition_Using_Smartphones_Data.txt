@@ -1,0 +1,2 @@
+You can download the dataset from the following link: 
+https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
