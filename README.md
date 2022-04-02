@@ -29,4 +29,4 @@ In addition to earning a Professional Certificate from Coursera, you will also r
 
 ## Disclaimer
 
-The solutions uploaded here are only for reference. They are meant to unblock you if you get stuck somewhere. Please do not copy any part of the code as-is (the programming assignments are fairly easy if you read the instructions carefully). Similarly, try out the quizzes yourself before you refer to the quiz solutions. This course is one of the most straight-forward ML courses I have ever taken, with fabulous course content and structure. 
+The solutions uploaded here are only for reference. They are meant to unblock you if you get stuck somewhere. Please do not copy any part of the code as-is (the programming assignments are fairly easy if you read the instructions carefully). Similarly, try out the quizzes yourself before you refer to the quiz solutions. these courses are ones of the most straight-forward ML courses I have ever taken, with fabulous course content and structure. 
